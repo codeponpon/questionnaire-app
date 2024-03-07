@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "answers": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswerIndex": 2,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 2,
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      "Harper Lee",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain"
+    ],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 3,
+    "question": "What is the chemical symbol for gold?",
+    "answers": ["Au", "Ag", "Pt", "Fe"],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 4,
+    "question": "Which continent is the largest by land area?",
+    "answers": ["Asia", "Africa", "North America", "Europe"],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 5,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "answers": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 6,
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Michelangelo"
+    ],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 7,
+    "question": "What is the tallest mountain in the world?",
+    "answers": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 8,
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "answers": ["China", "Japan", "South Korea", "Vietnam"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 9,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answers": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Mother Teresa",
+      "Ada Lovelace"
+    ],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 10,
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswerIndex": 3,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 11,
+    "question": "Which element has the chemical symbol 'H'?",
+    "answers": ["Hydrogen", "Helium", "Hassium", "Hafnium"],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 12,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      "William Shakespeare",
+      "Jane Austen",
+      "Charles Dickens",
+      "George Orwell"
+    ],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 13,
+    "question": "What is the powerhouse of the cell?",
+    "answers": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Ribosome"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 14,
+    "question": "Which country is famous for its pyramids?",
+    "answers": ["Greece", "Italy", "Egypt", "Mexico"],
+    "correctAnswerIndex": 2,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 15,
+    "question": "What is the largest mammal in the world?",
+    "answers": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 16,
+    "question": "Who is known as the father of modern physics?",
+    "answers": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 17,
+    "question": "What is the main ingredient in guacamole?",
+    "answers": ["Tomato", "Avocado", "Onion", "Pepper"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 18,
+    "question": "Which planet is known as the 'Morning Star'?",
+    "answers": ["Mars", "Venus", "Mercury", "Neptune"],
+    "correctAnswerIndex": 1,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 19,
+    "question": "Who invented the telephone?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswerIndex": 0,
+    "selectedAnswerIndex": -1
+  },
+  {
+    "id": 20,
+    "question": "What is the largest organ in the human body?",
+    "answers": ["Liver", "Brain", "Skin", "Heart"],
+    "correctAnswerIndex": 2,
+    "selectedAnswerIndex": -1
+  }
+]
